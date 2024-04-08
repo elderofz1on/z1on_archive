@@ -25,7 +25,7 @@
 
 Todos os itens da **Lista de verificação de conformidade com a LGPD** são necessários para a maioria dos projetos, outros itens referente a segurança especificamente será tratado em outro projeto
 
-* ![images].[high.svg]  significa que o item é **recomendado**, mas pode ser omitido em algumas situações particulares.
+* ![Low].[..\images\low.svg]  significa que o item é **recomendado**, mas pode ser omitido em algumas situações particulares.
 * ![Medium][medium_img] significa que o item é **altamente recomendado** e pode eventualmente ser omitido em alguns casos realmente particulares. 
 * ![High][high_img] significa que o item **não pode ser omitido** por qualquer motivo. 
 
