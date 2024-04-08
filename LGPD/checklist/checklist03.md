@@ -10,7 +10,7 @@
 
 A Lei Geral de Proteção de Dados (LGPD) é uma lei brasileira que regulamenta a coleta, o armazenamento, o tratamento e a transferência de dados pessoais. A LGPD entrou em vigor em setembro de 2020 e as empresas têm até agosto de 2021 para se adequarem à lei.
 
-Aqui está um checklist completo para LGPD:
+Aqui está um checklist para LGPD:
 
 * [ ] **Mapear todos os dados pessoais que você coleta e armazena.** Isso inclui dados de clientes, funcionários, fornecedores e parceiros.
 * [ ] **Identificar como você coleta e armazena esses dados.** Você coleta dados online, offline ou ambos? Você armazena os dados em servidores próprios ou em nuvem?
