@@ -1,4 +1,22 @@
-LGPD
+<h1 align="center">
+<br>
+  <br>
+    <br>
+  LGPD Checklist #02
+  <br>
+</h1>
+
+<h4 align="center">Checklist Lei Geral de Proteção dos Dados.</h4>
+
+## Como usar?
+
+Todos os itens da **Lista de verificação de conformidade com a LGPD** são necessários para a maioria dos projetos, outros itens referente a segurança especificamente será tratado em outro projeto
+
+* ![Low](https://github.com/elderofz1on/z1on_archive/blob/main/LGPD/checklist/images/low.svg)  significa que o item é **recomendado**, mas pode ser omitido em algumas situações particulares.
+* ![Medium](https://github.com/elderofz1on/z1on_archive/blob/main/LGPD/checklist/images/medium.svg) significa que o item é **altamente recomendado** e pode eventualmente ser omitido em alguns casos realmente particulares. 
+* ![High](https://github.com/elderofz1on/z1on_archive/blob/main/LGPD/checklist/images/high.svg) significa que o item **não pode ser omitido** por qualquer motivo. 
+
+---
 
 Nomear o(a) Encarregado(a)
 Mapear dados e bancos de dados existentes
