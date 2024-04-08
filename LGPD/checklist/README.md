@@ -25,7 +25,7 @@
 
 Todos os itens da **Lista de verificação de conformidade com a LGPD** são necessários para a maioria dos projetos, outros itens referente a segurança especificamente será tratado em outro projeto
 
-* [low](https://github.com/elderofz1on/z1on_archive/blob/main/LGPD/checklist/images/low.svg)  significa que o item é **recomendado**, mas pode ser omitido em algumas situações particulares.
+* ![Low](https://github.com/elderofz1on/z1on_archive/blob/main/LGPD/checklist/images/low.svg)  significa que o item é **recomendado**, mas pode ser omitido em algumas situações particulares.
 * ![Medium](https://github.com/elderofz1on/z1on_archive/blob/main/LGPD/checklist/images/medium.svg) significa que o item é **altamente recomendado** e pode eventualmente ser omitido em alguns casos realmente particulares. 
 * ![High](https://github.com/elderofz1on/z1on_archive/blob/main/LGPD/checklist/images/high.svg) significa que o item **não pode ser omitido** por qualquer motivo. 
 
