@@ -24,5 +24,5 @@ Aqui está um checklist para LGPD:
 Aqui estão algumas dicas adicionais para se adequar à LGPD:
 
 * [ ] **Crie uma política de privacidade clara e concisa.** A política de privacidade deve explicar como você coleta, usa e compartilha dados pessoais.
-* [ ] * **Treine seus funcionários sobre a LGPD.** Todos os funcionários que lidam com dados pessoais devem estar familiarizados com a LGPD e com as políticas e procedimentos da empresa.
-* [ ] * **Faça uma auditoria de privacidade regularmente.** A auditoria de privacidade ajudará você a identificar e corrigir quaisquer problemas de conformidade.
+* [ ] **Treine seus funcionários sobre a LGPD.** Todos os funcionários que lidam com dados pessoais devem estar familiarizados com a LGPD e com as políticas e procedimentos da empresa.
+* [ ] **Faça uma auditoria de privacidade regularmente.** A auditoria de privacidade ajudará você a identificar e corrigir quaisquer problemas de conformidade.
